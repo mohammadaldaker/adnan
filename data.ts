@@ -58,6 +58,13 @@ export const adnan: User = {
         "https://coursera.org/share/717311a61713672f2ac7d6f415a8242b",
       course_img: "",
     },
+    {
+      course_id: "course-08",
+      course_name: "Designing User Interfaces and Experiences (UI/UX)",
+      certificate:
+        "https://coursera.org/share/f3e36953e9d96f4e12bb41019c2637ea ",
+      course_img: "",
+    }
   ],
   education: [
     {
