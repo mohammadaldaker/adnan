@@ -1,9 +1,11 @@
-import HomePageCom from "@/components/home/home-component"
+import Home from "@/components/home/home-component";
 
-export default function Home() {
-  return (
-    <div className="px-2 py-4 flex flex-col bg-surface">
-      <HomePageCom/>
-    </div>
-  );
+function page() {
+    return ( 
+        <div className="px-2 py-4 flex flex-col bg-surface">
+            <Home/>
+        </div>
+     );
 }
+
+export default page;
