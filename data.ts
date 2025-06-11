@@ -7,7 +7,7 @@ export const adnan: User = {
   phone: "+963 998 884 906",
   id: "adnan-2005",
   img : "/photos/adnan-profile-photo.jpeg.png" , 
-  description: "I'm Adnan, a 20-year-old IT student with a deep passion for learning and technology. I take my studies seriously, and deadlines and appointments are non-negotiable for me they reflect my dedication and discipline. I work incredibly hard because I believe that effort and persistence are key to success. One of my biggest goals is to become a senior developer, mastering my craft and making an impact in the tech world. Whether it's coding, problem-solving, or tackling new challenges, I'm always pushing myself to improve and grow.",
+  description: "I'm an IT student with a strong interest in web development. I have a passion for coding and continuously exploring new fields in technology. Known for my ability to meet deadlines and quickly adapt to new challenges, I am eager to begin my professional journey in web development. I’m currently seeking opportunities where I can grow my skills, contribute to real-world projects, and become a valuable part of a development team",
   courses: [
     {
       course_id: "course-01",
